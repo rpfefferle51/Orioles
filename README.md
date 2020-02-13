@@ -1,11 +1,5 @@
 # Orioles
 Baltimore Orioles Homerun Probabilities 
-
----
-title: "HR_Probability_Orioles"
-output:
-  github_document
----
 ```{r}
 library(dplyr)
 library(ggplot2)
